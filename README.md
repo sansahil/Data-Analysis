@@ -32,4 +32,4 @@ Walmart faces challenges in maintaining consistent sales across its stores. It n
 ## 📂 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/walmart-sales-analysis.git
+   git clone https://github.com/sansahil/walmart-sales-analysis.git
